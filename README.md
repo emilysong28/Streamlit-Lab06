@@ -21,13 +21,16 @@ streamlit run app.py
 - GitHub repo link
 - Short README describing audience + tasks
 
-## Streamlit deployed link
+### Streamlit deployed link
+https://imt561-lab6-nyc-311-mini-dashboard.streamlit.app
 
-## GitHub repo link
+### GitHub repo link
+https://github.com/emilysong28/Streamlit-Lab06.git
 
-## Short README describing audience + tasks
-"This dashboard is intended for NYC service analysts to identify the various types of service requests and their response time patterns across boroughs."
+### Short README describing audience + tasks
+This dashboard is intended for NYC service analysts to identify the various types of service requests and their response time patterns across boroughs.
 It serves to answer questions such as:
+
 	1. How does response times differ between different boroughs?
 	2. What are common complaint types?
 	3. Which boroughs have the fastest and slowest response rates?
